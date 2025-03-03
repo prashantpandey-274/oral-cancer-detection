@@ -1,0 +1,21 @@
+.vscode/
+.android/
+.cache/
+.config/
+.p2/
+.skiko/
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+NTSURE.DAT*
+OneDrive/
+Picturs/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+*.log
+
+*.tmp
